@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/bonasoares/eLearning/_apis/build/status%2Fbonasoares.pipelines-java?branchName=main)](https://dev.azure.com/bonasoares/eLearning/_build/latest?definitionId=8&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
